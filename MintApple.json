@@ -11,19 +11,19 @@
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#ffffff",
-      "#ffffff"
+      "#000000"
     ],
     "HEADER_SECONDARY": [
       "#ffffff",
-      "#ffffff"
+      "#000000"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
+      "#000000",
       "#000000"
     ],
     "TEXT_MUTED": [
       "#C3C3C3",
-      "#ffffff"
+      "#C3C3C3"
     ],
     "INTERACTIVE_NORMAL": [
       "#89D59E",
@@ -140,7 +140,7 @@
     ],
     "TEXT_LINK": [
       "#000000",
-      "#ffffff"
+      "#BFDAFF"
     ],
     "KEYBOARD": [
       "#000000",
@@ -148,7 +148,7 @@
     ],
     "CHANNEL_ICON": [
       "#89D59E",
-      "#ffffff"
+      "#000000"
     ]
   },
   "rawColors": {
